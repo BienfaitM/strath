@@ -1,2 +1,0 @@
-# mystrath
-HCI project
