@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "305880478136",
+    "firebase_url": "https://mystrath-9a15c.firebaseio.com",
+    "project_id": "mystrath-9a15c",
+    "storage_bucket": "mystrath-9a15c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305880478136:android:27f2b8a4a986e3cf",
+        "android_client_info": {
+          "package_name": "com.example.mystrath"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305880478136-0lpnu94u1v4g7ur7oobdmn1cjhtlcf3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkNFd3wOirXvYzww0KYJz01_uTw5zzP8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305880478136-0lpnu94u1v4g7ur7oobdmn1cjhtlcf3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
